@@ -1,5 +1,5 @@
-# yeoman-codeigniter-module
-Yeoman tool to create a CodeIgniter module
+# Yeoman CodeIgniter Module
+Basic tool to create an minimal CodeIgniter module with HMVC (Hierarchical model-view-controller) structure.
 
 # Usage
-Call Yeomann with command `yo codeigniter-module`
+Call Yeoman with command `yo codeigniter-module`
