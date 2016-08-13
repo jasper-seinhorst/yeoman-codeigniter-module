@@ -1,0 +1,14 @@
+{
+  "name": "generator-codeigniter-module",
+  "version": "0.1.0",
+  "description": "generator for CodeIgniter Modules",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
